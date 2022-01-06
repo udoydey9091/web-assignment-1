@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 65px;
+    font-family: serif;
+    color: rgb(59, 58, 58);
+    border-left: 7px solid red;
+    margin-top: 100px;
+    padding-left: 3%;
+}
+h2{
+    color: rgb(8, 8, 53);
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    font-size: 45px;
+    color: black;
+}
+.word-color{
+    color: rgb(238, 159, 11);
+}
+.link-color{
+    background-image: linear-gradient(orange, orangered);
+    text-decoration: none;
+    padding: 10px 35px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+.flexible-contain{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding:0 7%;
+}
+.half-width img{
+    width: 80%;
+}
+.image-width img{
+    width: 380px;
+    padding:3% 0 3% 22%;
+}
+.image-width2 img{
+    width: 380px;
+    padding-left: 12%;
+    padding-right: 7%;
+}
+.text-width{
+    width: 900px;
+    padding-left: 12%;
+    padding-right: 7%;
+   
+}
+.text-width2{
+    width: 700px;
+    padding-left:7%;
+}
+.text-width3{
+    width: 900px;
+    padding-top: 4%;
+    padding-left: 12%;
+    padding-right: 7%;
+}
+.side-design{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-size: 84px;
+    background-position: 5px 100px;
+}
+.icon-image{
+    width: 120px;
+}
+.box1{
+    padding: 30px;
+    background-color: rgb(195, 231, 195);
+    margin: 1% 2% 4% 7%;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgb(173, 218, 173);
+}
+.box2{
+    padding: 20px;
+    background-color: rgb(231, 201, 190);
+    margin: 1% 2% 4% 2%;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgb(216, 185, 173);
+}
+.box3{
+    padding:20px;
+    background-color:rgb(231, 231, 169);
+    margin: 1% 7% 4% 2%;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgb(216, 216, 154);
+}
+footer{
+    background-color: rgb(12, 12, 34);
+    width: 100%;
+    position: relative;
+    height: 150px;
+}
+h5{
+    text-align: center;
+    color:rgb(95, 92, 92);
+}
+.text{
+    color: whitesmoke;
+    font-family: cursive;
+}
+.text2{
+    color: rgb(243, 67, 36);
+}
